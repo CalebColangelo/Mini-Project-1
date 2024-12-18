@@ -1,0 +1,67 @@
+#header { 
+
+    background-color: darkgreen;
+    text-align: end;
+    color: white;
+    border: 10px solid darkgreen;
+    margin: -10px;
+
+}
+
+#coming-soon-img {
+
+    position: relative; 
+    top: 40px;
+    left: 810px;
+
+}
+
+#new-website {
+
+    position: relative;
+    top: 20px;
+    left: 920px;
+    color: burlywood;
+    
+}
+
+#filler {
+
+    color: burlywood;
+    position: relative;
+    top: 40px;
+    left: 840px;
+
+}
+
+
+#contact-me { 
+
+    display: block;
+    background-color: burlywood;
+    color: white;
+    margin: 80px -10px 0px -10px;
+    border: 0px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+#contact-list {
+
+position: relative;
+bottom: 30px;
+border: 10px solid white
+
+}
+
+footer {
+
+color: white;
+background-color: darkgreen;
+border: 0px solid darkgreen;
+margin: -10px;
+padding: 40px;
+text-align: center;
+
+}
